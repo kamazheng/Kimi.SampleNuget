@@ -9,6 +9,7 @@
     </PropertyGroup>
 
     <PropertyGroup>
+        <PackageId>Kimi.SampleNuGet</PackageId>
         <Authors>Kama Zheng</Authors>
         <Description>A long description to explain the package</Description>
         <PackageProjectUrl>https://github.com/kamazheng/Kimi.SampleNuget</PackageProjectUrl>
